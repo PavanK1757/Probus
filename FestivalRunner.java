@@ -1,12 +1,19 @@
-class FestivalRunner {
-	public static void main(String[]args){
+class FestivalRunner{
 
-        String Name=Festival.Festivalname("Navaratri");
-		int Days=Festival.noOfDays(9);
-        char letter=Festival.Month('O');
-        boolean Food=Festival.isDelicious(true);
-        double star=Festival.rating(9.2);
-//       
-        
-		}
+public static void main(String[] args) {
+        int festivals =Festival.numberOfFestivals(5);
+        String name =Festival.festivalName("Diwali");
+        boolean holiday =Festival.isPublicHoliday(true);
+        long budget =Festival.festivalBudget(500000);
+        double duration =Festival.festivalDuration(3.5);
+        float rating =Festival.festivalRating(4.8f);
+
+        System.out.println(festivals);
+        System.out.println(name);
+        System.out.println(holiday);
+        System.out.println(budget);
+        System.out.println(duration);
+        System.out.println(rating);
+    }
+
 }
