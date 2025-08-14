@@ -1,0 +1,56 @@
+class PlaceRunner{
+public static void main (String[]args){
+     double code1=Place.TemperatureOfCity(1);
+	 System.out.println(code1);
+	 double code2=Place.TemperatureOfCity(2);
+	 System.out.println(code2);
+	 double code3=Place.TemperatureOfCity(3);
+	 System.out.println(code3);
+	 double code4=Place.TemperatureOfCity(4);
+	 System.out.println(code4);
+	 double code5=Place.TemperatureOfCity(5);
+	 System.out.println(code5);
+	 double code6=Place.TemperatureOfCity(6);
+	 System.out.println(code6);
+	 double code7=Place.TemperatureOfCity(7);
+	 System.out.println(code7);
+	 double code8=Place.TemperatureOfCity(8);
+	 System.out.println(code8);
+	 double code9=Place.TemperatureOfCity(9);
+	 System.out.println(code9);
+	 double code10=Place.TemperatureOfCity(10);
+	 System.out.println(code10);
+	 double code11=Place.TemperatureOfCity(11);
+	 System.out.println(code11);
+	 double code12=Place.TemperatureOfCity(12);
+	 System.out.println(code12);
+	 double code13=Place.TemperatureOfCity(13);
+	 System.out.println(code13);
+	 double code14=Place.TemperatureOfCity(14);
+	 System.out.println(code14);
+	 double code15=Place.TemperatureOfCity(15);
+	 System.out.println(code15);
+	 double code16=Place.TemperatureOfCity(16);
+	 System.out.println(code16);
+	 double code17=Place.TemperatureOfCity(17);
+	 System.out.println(code17);
+	 double code18=Place.TemperatureOfCity(18);
+	 System.out.println(code18);
+	 double code19=Place.TemperatureOfCity(19);
+	 System.out.println(code19);
+	 double code20=Place.TemperatureOfCity(20);
+	 System.out.println(code20);
+	 double code21=Place.TemperatureOfCity(21);
+	 System.out.println(code21);
+	 double code22=Place.TemperatureOfCity(22);
+	 System.out.println(code22);
+	 double code23=Place.TemperatureOfCity(23);
+	 System.out.println(code23);
+	 double code24=Place.TemperatureOfCity(24);
+	 System.out.println(code24);
+	 double code25=Place.TemperatureOfCity(25);
+	 System.out.println(code25);
+	 double code26=Place.TemperatureOfCity(26);
+	 System.out.println(code26);
+}
+}
